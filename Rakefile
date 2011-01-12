@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "ruby-itertools"
   gem.homepage = "http://github.com/redhatcat/ruby-itertools"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{An incomplete port of Python's itertools module}
+  gem.description = gem.summary
   gem.email = "redhatcat@gmail.com"
   gem.authors = ["Tyler Lesmann"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
